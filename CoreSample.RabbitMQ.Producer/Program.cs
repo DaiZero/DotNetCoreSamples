@@ -33,7 +33,6 @@ namespace CoreSample.RabbitMQ.Producer
                             properties.Persistent = true;//消息持久化
                             channel.BasicPublish("", queuename, properties, body); //开始传递
                         }
-                        //Console.WriteLine("已发送： {0}", message);
                     }
                 }
             }

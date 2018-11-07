@@ -22,7 +22,6 @@ namespace CoreSample.RabbitMQ.Customer
                 {
                     using (var channel = connection.CreateModel())
                     {
-                        //var queuename = "test003";//消息队列的名称
                         bool durable = true;//队列是否持久化
                         channel.QueueDeclare(queuename, durable, false, false, null);//创建一个消息队列,如果有则不创建
                         channel.BasicQos(0, 1, false);//公平分发配置,使得每个Consumer在同一个时间点最多处理一个Message【在创建消费者之前设置，才会有效】
