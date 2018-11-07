@@ -1,0 +1,14 @@
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.exe
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.deps.json
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.runtimeconfig.json
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.runtimeconfig.dev.json
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.dll
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\bin\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.pdb
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\obj\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.csprojAssemblyReference.cache
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\obj\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.csproj.CoreCompileInputs.cache
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\obj\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.AssemblyInfoInputs.cache
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\obj\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.AssemblyInfo.cs
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\obj\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.dll
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Customer\obj\Debug\netcoreapp2.1\win10-x64\CoreSample.RabbitMQ.Customer.pdb

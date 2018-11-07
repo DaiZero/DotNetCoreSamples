@@ -1,0 +1,10 @@
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\bin\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.deps.json
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\bin\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.runtimeconfig.json
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\bin\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.runtimeconfig.dev.json
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\bin\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.dll
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\obj\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.csproj.CoreCompileInputs.cache
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\obj\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.AssemblyInfoInputs.cache
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\obj\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.AssemblyInfo.cs
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\bin\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.pdb
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\obj\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.dll
+D:\MyCode\GitHubCode\DotNetCoreSamples\CoreSample.RabbitMQ.Producer\obj\Debug\netcoreapp2.1\CoreSample.RabbitMQ.Producer.pdb
