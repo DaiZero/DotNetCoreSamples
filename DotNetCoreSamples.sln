@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSample.RabbitMQ.Produce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSample.RabbitMQ.Customer", "CoreSample.RabbitMQ.Customer\CoreSample.RabbitMQ.Customer.csproj", "{76DAE3F1-2CF3-475A-A037-6531B038FCBF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001.队列之RabbitMQ", "001.队列之RabbitMQ", "{30881649-7149-4B46-86CE-62590C1CB2B8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "队列之RabbitMQ", "队列之RabbitMQ", "{30881649-7149-4B46-86CE-62590C1CB2B8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002.API之GraphQL", "002.API之GraphQL", "{0CA09337-2150-4266-BA71-D85A0F2B32C8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API之GraphQL", "API之GraphQL", "{0CA09337-2150-4266-BA71-D85A0F2B32C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreSample.GraphQL", "CoreSample.GraphQL\CoreSample.GraphQL.csproj", "{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSample.GraphQL", "CoreSample.GraphQL\CoreSample.GraphQL.csproj", "{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
