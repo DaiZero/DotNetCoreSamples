@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreSample.RabbitMQ.Producer", "CoreSample.RabbitMQ.Producer\CoreSample.RabbitMQ.Producer.csproj", "{E7285D60-1E11-44E5-9850-E8471F752557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSample.RabbitMQ.Producer", "CoreSample.RabbitMQ.Producer\CoreSample.RabbitMQ.Producer.csproj", "{E7285D60-1E11-44E5-9850-E8471F752557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreSample.RabbitMQ.Customer", "CoreSample.RabbitMQ.Customer\CoreSample.RabbitMQ.Customer.csproj", "{76DAE3F1-2CF3-475A-A037-6531B038FCBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSample.RabbitMQ.Customer", "CoreSample.RabbitMQ.Customer\CoreSample.RabbitMQ.Customer.csproj", "{76DAE3F1-2CF3-475A-A037-6531B038FCBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "001.队列之RabbitMQ", "001.队列之RabbitMQ", "{30881649-7149-4B46-86CE-62590C1CB2B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "002.API之GraphQL", "002.API之GraphQL", "{0CA09337-2150-4266-BA71-D85A0F2B32C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreSample.GraphQL", "CoreSample.GraphQL\CoreSample.GraphQL.csproj", "{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +27,18 @@ Global
 		{76DAE3F1-2CF3-475A-A037-6531B038FCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DAE3F1-2CF3-475A-A037-6531B038FCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DAE3F1-2CF3-475A-A037-6531B038FCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9399EABA-1747-41BE-9B8E-9F8CCA04A89C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E7285D60-1E11-44E5-9850-E8471F752557} = {30881649-7149-4B46-86CE-62590C1CB2B8}
+		{76DAE3F1-2CF3-475A-A037-6531B038FCBF} = {30881649-7149-4B46-86CE-62590C1CB2B8}
+		{9399EABA-1747-41BE-9B8E-9F8CCA04A89C} = {0CA09337-2150-4266-BA71-D85A0F2B32C8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81FE7346-F44A-4C77-ACD2-958620E3D618}
