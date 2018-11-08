@@ -43,3 +43,8 @@ dlldata.c
 /CoreSample.RabbitMQ.Customer/obj
 /CoreSample.RabbitMQ.Producer/bin
 /CoreSample.RabbitMQ.Producer/obj
+/CoreSample.RabbitMQ.Producer/*.user
+/CoreSample.RabbitMQ.Customer/*.user
+/CoreSample.GraphQL/bin
+/CoreSample.GraphQL/obj
+/CoreSample.GraphQL/*.user
